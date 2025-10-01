@@ -115,8 +115,8 @@ BugContest,21
     5,PINSIR,13,14
     5,SCYTHER,13,14
 PokeRadar,40
-    50,BUTTERFREE,15,18
     50,BEEDRILL,15,18
+    50,BUTTERFREE,15,18
 #-------------------------------
 [031] # Route 3
 Land,21
@@ -155,6 +155,12 @@ HeadbuttHigh
     50,SEEDOT,14,17
     30,SHROOMISH,14,17
     20,BURMY,12,15
+#-------------------------------
+[032] # Route 101
+Land,14
+    35,LILLIPUP,2,4
+    35,SENTRET,2,4
+    30,STARLY,2,4
 #-------------------------------
 [034] # Ice Cave
 Cave,5
@@ -309,3 +315,11 @@ Land,21
     10,PIKACHU,11,14
     10,SANDSHREW_1,11,14
     10,VULPIX_1,11,14
+#-------------------------------
+[081] # Route 102
+Land,18
+    25,LILLIPUP,2,4
+    25,SENTRET,2,4
+    17,STARLY,2,5
+	13,SLOWPOKE,3,5
+	20,BUDEW,3,5

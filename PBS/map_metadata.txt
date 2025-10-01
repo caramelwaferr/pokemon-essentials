@@ -11,7 +11,7 @@ MapPosition = 0,13,12
 BattleBack = field
 #-------------------------------
 [003]   # Player's house
-Name = \PN's house
+Name = Your House
 HealingSpot = 2,8,8
 MapPosition = 0,13,12
 #-------------------------------
@@ -102,6 +102,13 @@ MapPosition = 0,14,8
 BattleBack = field
 MapSize = 1,11
 #-------------------------------
+[022]   # Lachite Town
+Name = Lachite Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,12,14
+#-------------------------------
 [023]   # Lerucean Town
 Name = Lerucean Town
 Outdoor = true
@@ -151,6 +158,20 @@ ShowArea = true
 MapPosition = 0,14,6
 BattleBack = field
 MapSize = 2,1101
+#-------------------------------
+[032]   # Route 101
+Name = Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,12,13
+#-------------------------------
+[033]   # Azur Town
+Name = Azur Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,13,13
 #-------------------------------
 [034]   # Ice Cave
 Name = Route 3
@@ -205,6 +226,16 @@ BicycleAlways = true
 MapPosition = 0,11,7
 MapSize = 1,111
 #-------------------------------
+[042]   # Player's House
+Name = \PN's House
+ShowArea = true
+MapPosition = 0,12,14
+#-------------------------------
+[043]   # Professor's Lab
+Name = Professor's Lab
+ShowArea = true
+MapPosition = 0,12,14
+#-------------------------------
 [044]   # Route 6
 Name = Route 6
 Outdoor = true
@@ -234,6 +265,12 @@ MapPosition = 0,15,10
 BattleBack = rocky
 MapSize = 2,11
 Environment = Rock
+#-------------------------------
+[048]   # Lachite Inn
+Name = Lachite Tunnel
+ShowArea = true
+Bicycle = true
+MapPosition = 0,11,13
 #-------------------------------
 [049]   # Rock Cave 1F
 Name = Route 7
@@ -396,3 +433,67 @@ Name = Tiall Region
 Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
+#-------------------------------
+[076]
+Name = Mineral Lake
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,11,14
+#-------------------------------
+[077]   # Rival's House
+Name = Rival's House
+MapPosition = 0,12,14
+#-------------------------------
+[078]   # Citrine City
+Name = Corratone City
+MapPosition = 0,5,9
+#-------------------------------
+[079]   # Azur Town Poké Center
+Name = Azur Town Poké Center
+MapPosition = 0,13,13
+#-------------------------------
+[080]   # Azur Town Mart
+Name = Azur Town Mart
+MapPosition = 0,13,13
+#-------------------------------
+[081]   # Route 102
+Name = Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,14,13
+#-------------------------------
+[083]   # Azur House1
+Name = Azur House1
+MapPosition = 0,13,13
+#-------------------------------
+[084]   # Jasper City
+Name = Jasper City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,17,13
+#-------------------------------
+[085]   # Azur House2
+Name = Azur House2
+MapPosition = 0,13,13
+#-------------------------------
+[086]
+Name = Azur House3
+MapPosition = 0,13,13
+#-------------------------------
+[087]   # Jasper City Poké Center
+Name = Jasper City Poké Center
+MapPosition = 0,17,13
+#-------------------------------
+[088]   # Jasper City Mart
+Name = Jasper City Mart
+MapPosition = 0,16,13
+#-------------------------------
+[092]   # Peridot Forest
+Name = Peridot Forest
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,12
+Environment = Forest

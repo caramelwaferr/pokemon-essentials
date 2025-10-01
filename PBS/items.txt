@@ -523,7 +523,7 @@ Name = Big Nugget
 NamePlural = Big Nuggets
 Pocket = 1
 Price = 40000
-Flags = Fling_130
+Flags = Fling_30
 Description = A big nugget of pure gold that gives off a lustrous gleam. A maniac will buy it for a high price.
 #-------------------------------
 [HEARTSCALE]
@@ -6563,3 +6563,29 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = A faded sea chart that shows the way to a certain island.
+#-------------------------------
+[SCYTHE]
+Name = Scythe
+NamePlural = Scythes
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = A well hand-crafted scythe. It can be used to chop down thin trees.
+#-------------------------------
+[EXPALL]
+Name = Exp. All
+NamePlural = Exp Alls
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Allows all of the Pokémon in your party to gain Exp. during battles. Currently toggled on.
+#-------------------------------
+[EXPALLOFF]
+Name = Exp. All
+NamePlural = Exp Alls
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Allows all of the Pokémon in your party to gain Exp. during battles. Currently toggled off.

@@ -3,8 +3,8 @@
 [0]
 StartMoney = 3000
 StartItemStorage = POTION
-Home = 3,7,5,8
-StorageCreator = Bill
+Home = 42,26,6,2
+StorageCreator = Caramel
 WildBattleBGM = Battle wild
 TrainerBattleBGM = Battle trainer
 WildVictoryBGM = Battle victory wild
@@ -31,3 +31,24 @@ SurfCharset = girl_surf
 DiveCharset = girl_surf
 FishCharset = girl_fish_offset
 SurfFishCharset = girl_fish_offset
+#-------------------------------
+[3]
+TrainerType = POKEMONTRAINER_MINA
+WalkCharset = trainer_POKEMONTRAINER_Mina
+RunCharset = mina_run
+CycleCharset = mina_bike
+SurfCharset = mina_surf
+DiveCharset = mina_surf
+FishCharset = mina_fish_offset
+SurfFishCharset = mina_fish_offset
+Home = 42,26,7,2
+#-------------------------------
+[4]
+TrainerType = DAWNN
+WalkCharset = DAWNN
+RunCharset = DAWNN
+CycleCharset = DAWNN
+SurfCharset = DAWNN
+DiveCharset = DAWNN
+FishCharset = DAWNN
+SurfFishCharset = DAWNN

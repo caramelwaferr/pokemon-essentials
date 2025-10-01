@@ -399,3 +399,28 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
+#-------------------------------
+[POKEMONTRAINER_MINA]
+Name = Pokémon Trainer
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[LEADER_SOLENE]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+#-------------------------------
+[POKEMONTRAINER_SOLENE]
+Name = Trainer
+Gender = Female
+BaseMoney = 30
+#-------------------------------
+[DAWNN]
+Name = Dawn
+Gender = Female
+BaseMoney = 30
+#-------------------------------
+[RIVAL]
+Name = Rival
+Gender = Male
+BaseMoney = 30
