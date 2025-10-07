@@ -267,9 +267,7 @@ MapSize = 2,11
 Environment = Rock
 #-------------------------------
 [048]   # Lachite Inn
-Name = Lachite Tunnel
-ShowArea = true
-Bicycle = true
+Name = Lachite Inn
 MapPosition = 0,11,13
 #-------------------------------
 [049]   # Rock Cave 1F
