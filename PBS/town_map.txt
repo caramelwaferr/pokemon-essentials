@@ -4,7 +4,6 @@
 Filename = mapRegion0.png
 Name = Cephal
 Point = 12,15,Lachite Town,Prof Lab,22,7,15,,PlatSize1x1
-Point = 11,15,Mineral Lake,,,,,,
 Point = 11,14,Verde Tunnel,,,,,,PlatSize1x2
 Point = 12,13,Route 101,,,,,,
 Point = 12,14,Route 101,,,,,,
@@ -77,9 +76,6 @@ Point = 12,9,Route 109,,,,,,
 Point = 13,9,Route 109,,,,,,
 Point = 14,9,Route 109,,,,,,
 Point = 7,13,Tourma City,,,,,,PlatSize2x1
-Point = 10,15,Mineral Lake,,,,,,
-Point = 10,16,Mineral Lake,,,,,,
-Point = 11,16,Mineral Lake,,,,,,
 Point = 6,7,Route 111,,,,,,
 Point = 7,7,Route 111,,,,,,
 Point = 7,6,Route 111,,,,,,

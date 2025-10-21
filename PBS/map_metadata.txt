@@ -432,20 +432,9 @@ Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
 #-------------------------------
-[076]
-Name = Mineral Lake
-Outdoor = true
-ShowArea = true
-Bicycle = true
-MapPosition = 0,11,14
-#-------------------------------
 [077]   # Rival's House
 Name = Rival's House
 MapPosition = 0,12,14
-#-------------------------------
-[078]   # Citrine City
-Name = Corratone City
-MapPosition = 0,5,9
 #-------------------------------
 [079]   # Azur Town Poké Center
 Name = Azur Town Poké Center
@@ -475,10 +464,6 @@ MapPosition = 0,17,13
 #-------------------------------
 [085]   # Azur House2
 Name = Azur House2
-MapPosition = 0,13,13
-#-------------------------------
-[086]
-Name = Azur House3
 MapPosition = 0,13,13
 #-------------------------------
 [087]   # Jasper City Poké Center
