@@ -152,3 +152,15 @@ Pokemon = SNEASEL,13
     Moves = TAUNT,QUICKATTACK,FEINTATTACK,LEER
     Gender = male
     Ball = PREMIERBALL
+#-------------------------------
+[RIVAL1,???]
+LoseText = Damn, the trainers down here don't mess around...
+Pokemon = SNIVY,5
+#-------------------------------
+[RIVAL1,???,2]
+LoseText = Damn, the trainers down here don't mess around...
+Pokemon = PIPLUP,5
+#-------------------------------
+[RIVAL1,???,1]
+LoseText = Damn, the trainers down here don't mess around...
+Pokemon = TORCHIC,5

@@ -24,6 +24,8 @@ BaseMoney = 60
 Name = Rival
 Gender = Male
 BaseMoney = 16
+IntroBGM = (boy rival)BW 139 Cheren_s Theme
+BattleBGM = (Rival)BW 134 Battle! (Team Plasma)
 #-------------------------------
 [RIVAL2]
 Name = Rival
