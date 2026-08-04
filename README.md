@@ -4,4 +4,6 @@
 
 You're the new kid in town, so you gotta prove your worth by battling your way through the scenic Cephal region! Meet new friends(and maybe foes) along the way, and become a Pokémon master! 
 
+<img width="1818" height="1365" alt="image" src="https://github.com/user-attachments/assets/2fc7039b-2120-422c-9fca-f32ce101a05c" />
+
 Based on Pokémon Essentials v21.1.
