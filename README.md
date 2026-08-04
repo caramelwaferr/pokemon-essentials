@@ -1,4 +1,4 @@
-﻿# Pokémon Fan Game
+﻿# Pokémon Malachite
 
 Based on Pokémon Essentials v21.1.
 
