@@ -108,6 +108,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,12,14
+Environment = Grass
 #-------------------------------
 [023]   # Lerucean Town
 Name = Lerucean Town
@@ -165,6 +166,8 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,12,13
+BattleBack = field
+Environment = Grass
 #-------------------------------
 [033]   # Azur Town
 Name = Azur Town
@@ -235,6 +238,7 @@ MapPosition = 0,12,14
 Name = Professor's Lab
 ShowArea = true
 MapPosition = 0,12,14
+BattleBack = indoor1
 #-------------------------------
 [044]   # Route 6
 Name = Route 6
@@ -432,7 +436,7 @@ Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
 #-------------------------------
-[077]   # Rival's House
+[077]   # Lachite House1
 Name = Rival's House
 MapPosition = 0,12,14
 #-------------------------------
@@ -461,6 +465,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,17,13
+BattleBack = city
 #-------------------------------
 [085]   # Azur House2
 Name = Azur House2

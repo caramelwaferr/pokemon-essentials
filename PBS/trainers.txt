@@ -153,14 +153,14 @@ Pokemon = SNEASEL,13
     Gender = male
     Ball = PREMIERBALL
 #-------------------------------
-[RIVAL1,???]
-LoseText = Damn, the trainers down here don't mess around...
+[RIVAL1,Piers]
+LoseText = ...
 Pokemon = SNIVY,5
 #-------------------------------
-[RIVAL1,???,2]
-LoseText = Damn, the trainers down here don't mess around...
-Pokemon = PIPLUP,5
-#-------------------------------
-[RIVAL1,???,1]
-LoseText = Damn, the trainers down here don't mess around...
+[RIVAL1,Piers,1]
+LoseText = ...
 Pokemon = TORCHIC,5
+#-------------------------------
+[RIVAL1,Piers,2]
+LoseText = ...
+Pokemon = PIPLUP,5

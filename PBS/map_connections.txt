@@ -40,11 +40,11 @@
 52,West,0,47,East,8
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Route 101 (32) - Azur Town (33)
-32,East,0,33,West,12
+# Route 101 (32) - Lachite Town (22)
+32,South,0,22,North,20
+# Azur Town (33) - Route 101 (32)
+33,West,12,32,East,0
 # Route 102 (81) - Azur Town (33)
 81,West,0,33,East,0
-# Lachite Town (22) - Route 101 (32)
-22,North,20,32,South,0
 # Jasper City (84) - Route 102 (81)
 84,West,10,81,East,0

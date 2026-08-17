@@ -7,8 +7,8 @@ Home = 42,26,6,2
 StorageCreator = Caramel
 WildBattleBGM = (Wild Pokemon)B2W2 107 Battle!
 TrainerBattleBGM = (Trainer Battle)BW 126 Battle!
-WildVictoryBGM = (Trainer Victory)BW 127 Victory! (Trainer Battle)
-TrainerVictoryBGM = (Trainer Victory)BW 127 Victory! (Trainer Battle)
+WildVictoryBGM = (Wild Victory)BW 115 Victory!
+TrainerVictoryBGM = (Trainer Victory)BW 127 Victory!
 SurfBGM = Surfing
 BicycleBGM = Bicycle
 #-------------------------------
