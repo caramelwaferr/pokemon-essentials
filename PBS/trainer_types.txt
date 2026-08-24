@@ -423,6 +423,7 @@ BaseMoney = 30
 BattleBGM = (Solene Battle)DPPT 048 Battle! (Team Galactic Admin)
 #-------------------------------
 [LEADER_GROUND]
+Name = Gym Leader
 Gender = Male
 BaseMoney = 100
 BattleBGM = (Gym Battle)BW 144 Battle! (Gym Leader)
