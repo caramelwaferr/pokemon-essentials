@@ -42,13 +42,4 @@ DiveCharset = mina_surf
 FishCharset = mina_fish_offset
 SurfFishCharset = mina_fish_offset
 Home = 42,26,7,2
-#-------------------------------
-[4]
-TrainerType = DAWNN
-WalkCharset = DAWNN
-RunCharset = DAWNN
-CycleCharset = DAWNN
-SurfCharset = DAWNN
-DiveCharset = DAWNN
-FishCharset = DAWNN
-SurfFishCharset = DAWNN
+

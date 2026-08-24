@@ -31,7 +31,10 @@ VictoryBGM = (boy rival victory)BW 135 Victory! (Team Plasma)
 [RIVAL2]
 Name = Rival
 Gender = Male
-BaseMoney = 36
+BaseMoney = 16
+IntroBGM = (boy rival intro) BW 139 Cheren_s Theme
+BattleBGM = (boy rival batlle)BW 134 Battle! (Team Plasma)
+VictoryBGM = (boy rival victory)BW 135 Victory! (Team Plasma)
 #-------------------------------
 [AROMALADY]
 Name = Aroma Lady
@@ -419,7 +422,8 @@ Gender = Female
 BaseMoney = 30
 BattleBGM = (Solene Battle)DPPT 048 Battle! (Team Galactic Admin)
 #-------------------------------
-[DAWNN]
-Name = Dawn
-Gender = Female
-BaseMoney = 30
+[LEADER_GROUND]
+Gender = Male
+BaseMoney = 100
+BattleBGM = (Gym Battle)BW 144 Battle! (Gym Leader)
+VictoryBGM = (Gym Victory)BW 146 Victory! (Gym Leader)

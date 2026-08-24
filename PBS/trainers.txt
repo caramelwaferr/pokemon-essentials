@@ -142,25 +142,77 @@ Pokemon = WURMPLE,7
 #-------------------------------
 [POKEMONTRAINER_SOLENE,???]
 LoseText = ...Hm.
-Pokemon = TAILLOW,10
+Pokemon = TAILLOW,12
     Ball = PREMIERBALL
-Pokemon = CACNEA,11
+Pokemon = CACNEA,13
     Moves = POISONSTING,ABSORB,GROWTH,PROTECT
     Gender = male
     Ball = PREMIERBALL
-Pokemon = SNEASEL,13
+Pokemon = SNEASEL,14
     Moves = TAUNT,QUICKATTACK,FEINTATTACK,LEER
     Gender = male
     Ball = PREMIERBALL
 #-------------------------------
 [RIVAL1,Piers]
-LoseText = ...
+LoseText = Damn, talk about beginner's luck.
 Pokemon = SNIVY,5
 #-------------------------------
 [RIVAL1,Piers,1]
-LoseText = ...
+LoseText = Damn, talk about beginner's luck.
 Pokemon = TORCHIC,5
 #-------------------------------
 [RIVAL1,Piers,2]
-LoseText = ...
+LoseText = Damn, talk about beginner's luck.
 Pokemon = PIPLUP,5
+#-------------------------------
+[LEADER_GROUND,Ground]
+LoseText = Well done. You've shown you have what it takes!
+Pokemon = DIGLETT,12
+    Moves = MAGNITUDE,SANDATTACK,TOXIC,SCRATCH
+    Gender = female
+Pokemon = GIBLE,12
+    Moves = TACKLE,DRAGONRAGE,SANDATTACK
+    Gender = male
+Pokemon = GLISCOR,14
+    Moves = MUDSLAP,HARDEN,POISONSTING,KNOCKOFF
+    Gender = male
+#-------------------------------
+[RIVAL2,Piers]
+LoseText = Not bad, kid.
+Pokemon = DUSKULL,8
+    Moves = NIGHTSHADE,LEER,DISABLE,FORESIGHT
+    Gender = female
+Pokemon = SNIVY,10
+    Moves = TACKLE,LEER,VINEWHIP,WRAP
+    Gender = male
+#-------------------------------
+[RIVAL2,Piers,1]
+LoseText = Not bad, kid.
+Pokemon = DUSKULL,8
+    Moves = NIGHTSHADE,LEER,DISABLE,FORESIGHT
+    Gender = female
+Pokemon = TORCHIC,10
+    Moves = GROWL,SCRATCH,EMBER,FOCUSENERGY
+    Gender = male
+#-------------------------------
+[RIVAL2,Piers,2]
+LoseText = Not bad, kid.
+Pokemon = DUSKULL,8
+    Moves = NIGHTSHADE,LEER,DISABLE,FORESIGHT
+    Gender = female
+Pokemon = PIPLUP,10
+    Moves = GROWL,POUND,BUBBLE,WATERSPORT
+    Gender = male
+#-------------------------------
+[LASS,Kira]
+LoseText = Guess it is that easy for you!
+Pokemon = GEODUDE,9
+#-------------------------------
+[YOUNGSTER,Nathan]
+LoseText = O-oh no! I lost!
+Pokemon = DRILBUR,8
+#-------------------------------
+[HIKER,Phil]
+LoseText = Good fight, challenger.
+Pokemon = DIGLETT,10
+Pokemon = DRILBUR,11

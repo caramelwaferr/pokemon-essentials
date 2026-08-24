@@ -5135,6 +5135,17 @@ Flags = Fling_90
 Move = ROCKCLIMB
 Description = A charging attack that may also leave the foe confused.
 #-------------------------------
+[TM101]
+Name = TM101
+NamePlural = TM101s
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TM
+Flags = Fling_90
+Move = MUDSLAP
+Description = The user hurls mud in the target's face to inflict damage and lower its accuracy. 
+#-------------------------------
 [HM01]
 Name = HM01
 NamePlural = HM01s
